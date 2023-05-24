@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fachadas/static/css/main.d1eb4235.css",
+    "main.js": "/fachadas/static/js/main.c8a10e6b.js",
+    "index.html": "/fachadas/index.html",
+    "main.d1eb4235.css.map": "/fachadas/static/css/main.d1eb4235.css.map",
+    "main.c8a10e6b.js.map": "/fachadas/static/js/main.c8a10e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1eb4235.css",
+    "static/js/main.c8a10e6b.js"
+  ]
+}
